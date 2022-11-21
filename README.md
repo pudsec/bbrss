@@ -16,6 +16,7 @@ It's late now, so just starting this off now and will add more in the near futur
 | honoki - Cyber entomology | https://honoki.net | https://honoki.net/feed/ | [@honoki](https://twitter.com/honoki)
 | Spaceraccoon's Blog | https://spaceraccoon.dev | https://spaceraccoon.dev/feed.xml | [@spaceraccoonsec](https://twitter.com/spaceraccoonsec) |
 | vict0ni.me  | https://vict0ni.me | https://vict0ni.me/rss/ | [@vict0ni](https://twitter.com/vict0ni) |
+| Youssef Sammouda | https://ysamm.com | https://ysamm.com/?feed=rss2 | [@samm0uda](https://twitter.com/samm0uda) |
 
 # Please contribute
 
