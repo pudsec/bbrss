@@ -18,6 +18,7 @@ It's late now, so just starting this off now and will add more in the near futur
 | Spaceraccoon's Blog | https://spaceraccoon.dev | https://spaceraccoon.dev/feed.xml | [@spaceraccoonsec](https://twitter.com/spaceraccoonsec) |
 | vict0ni.me  | https://vict0ni.me | https://vict0ni.me/rss/ | [@vict0ni](https://twitter.com/vict0ni) |
 | War + Code | https://warandcode.com | https://warandcode.com/index.xml | [@gingeleski](https://twitter.com/gingeleski) |
+| Wya.pl - Dev/Sec Exploring this crazy web | https://wya.pl | https://wya.pl/feed/ | [@wdahlenb](https://twitter.com/wdahlenb) |
 | Youssef Sammouda | https://ysamm.com | https://ysamm.com/?feed=rss2 | [@samm0uda](https://twitter.com/samm0uda) |
 
 # Please contribute
